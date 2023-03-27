@@ -1,0 +1,26 @@
+[class*="col-"]{
+    /* border: 1px solid white; */
+    min-height: 50px;
+    color: white;
+    text-align: center;
+    background-color: rgb(0, 108,250) ;
+}
+
+[class*="col-offset-"]{
+    border: 1px solid white;
+    min-height: 30px;
+    color: white;
+    text-align: center;
+    background-color: rgb(0, 108,250) ;
+}
+
+.bg-black{
+    background-color: black;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-orange{
+    background-color: orange;
+}
+
