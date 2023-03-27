@@ -1,0 +1,24 @@
+.row [class*="col-"]{
+    border: 1px solid white;
+    min-height: 30px;
+    color: white;
+    text-align: center;
+    background-color: rgb(0, 108,250) ;
+  }
+
+.row2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+.row2 [class*="col-"]{
+    border: 1px solid white; 
+    min-height: 30px;
+    background-color: rgb(0, 108,250) ;
+}
+
+.row3 [class*="col-"]{
+  border: 1px solid white; 
+  min-height: 30px;
+  background-color: rgb(0, 108,250) ;
+}
